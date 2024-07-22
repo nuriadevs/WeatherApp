@@ -43,7 +43,7 @@
 ![exit](https://github.com/user-attachments/assets/c1b00d5d-e7d1-4c2a-9cb4-ddbe511f1aee)
 
 ## Configuration API :globe_with_meridians:
-Use the Visual crossing API, you have to register on their website. Add your **API_KEY** and **APP_ID** to the **local properties** file of the project.
+Use the Visual crossing API, you have to register on their website. Add your **API_KEY** to the **local properties** file of the project.
 
 ## Note :speech_balloon:
 Some features are being improved.
